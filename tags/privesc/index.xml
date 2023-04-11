@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on S4MY9’s Blog</title>
-    <link>https://s4my9.github.io/posts/</link>
-    <description>Recent content in Posts on S4MY9’s Blog</description>
+    <title>Privesc on S4MY9’s Blog</title>
+    <link>https://s4my9.github.io/tags/privesc/</link>
+    <description>Recent content in Privesc on S4MY9’s Blog</description>
     <image>
       <title>S4MY9’s Blog</title>
       <url>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://s4my9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://s4my9.github.io/tags/privesc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFS no_root_squash privesc</title>
       <link>https://s4my9.github.io/posts/no-root-squash-privesc/</link>
@@ -21,18 +21,6 @@
 Demonstration Attacker machine Create a directory named /tmp/mount:
 mkdir /tmp/mount Mount the network file system to /tmp/mount:
 mount -t nfs &amp;lt;IP&amp;gt;:&amp;lt;SHARED_FOLDER&amp;gt; /tmp/mount Copy the /bin/bash binary from the attacker&amp;rsquo;s system to the mounted file system:</description>
-    </item>
-    
-    <item>
-      <title>LFI to RCE with Log Poisoning</title>
-      <link>https://s4my9.github.io/posts/lfi-to-rce-with-log-poisoning/</link>
-      <pubDate>Thu, 06 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://s4my9.github.io/posts/lfi-to-rce-with-log-poisoning/</guid>
-      <description>Introduction LFI (Local File Inclusion) is a common vulnerability found in web applications, allowing an attacker to include local files in the server. LFI Log Poisoning is a technique that leverages LFI vulnerabilities to write arbitrary content to log files on the server. By doing so, an attacker can leverage a LFI to a RCE.
-This is the path of a vulnerable LFI :
-http://127.0.0.1/index.php?page=/../../../../etc/passwd
-The local file can be read :</description>
     </item>
     
   </channel>

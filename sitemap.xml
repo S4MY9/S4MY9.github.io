@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://s4my9.github.io/tags/linux/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s4my9.github.io/tags/nfs/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s4my9.github.io/posts/no-root-squash-privesc/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s4my9.github.io/posts/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s4my9.github.io/tags/privesc/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s4my9.github.io/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s4my9.github.io/tags/</loc>
+    <lastmod>2023-04-11T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://s4my9.github.io/tags/lfi/</loc>
     <lastmod>2023-04-06T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://s4my9.github.io/posts/lfi-to-rce-with-log-poisoning/</loc>
     <lastmod>2023-04-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://s4my9.github.io/posts/</loc>
-    <lastmod>2023-04-06T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://s4my9.github.io/tags/rce/</loc>
-    <lastmod>2023-04-06T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://s4my9.github.io/</loc>
-    <lastmod>2023-04-06T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://s4my9.github.io/tags/</loc>
     <lastmod>2023-04-06T11:30:03+00:00</lastmod>
   </url>
 </urlset>

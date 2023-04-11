@@ -10,7 +10,19 @@
       <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://s4my9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://s4my9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFS no_root_squash privesc</title>
+      <link>https://s4my9.github.io/posts/no-root-squash-privesc/</link>
+      <pubDate>Tue, 11 Apr 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/no-root-squash-privesc/</guid>
+      <description>Introduction In some environments, the root user on a networked file system is treated as an unprivileged user. This is known as &amp;ldquo;root squashing.&amp;rdquo; If root squashing is disabled, an attacker who gains access to an unprivileged account on the file system may be able to escalate their privileges to root.
+Demonstration Attacker machine Create a directory named /tmp/mount:
+mkdir /tmp/mount Mount the network file system to /tmp/mount:
+mount -t nfs &amp;lt;IP&amp;gt;:&amp;lt;SHARED_FOLDER&amp;gt; /tmp/mount Copy the /bin/bash binary from the attacker&amp;rsquo;s system to the mounted file system:</description>
+    </item>
+    
     <item>
       <title>LFI to RCE with Log Poisoning</title>
       <link>https://s4my9.github.io/posts/lfi-to-rce-with-log-poisoning/</link>

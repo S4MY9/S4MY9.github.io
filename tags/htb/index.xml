@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTB on S4MY9’s Blog</title>
+    <link>https://s4my9.github.io/tags/htb/</link>
+    <description>Recent content in HTB on S4MY9’s Blog</description>
+    <image>
+      <title>S4MY9’s Blog</title>
+      <url>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Jul 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/htb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[HTB]: Inject</title>
+      <link>https://s4my9.github.io/posts/inject-htb/</link>
+      <pubDate>Sun, 16 Jul 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/inject-htb/</guid>
+      <description>nmap shows 3 open ports, http (TCP 8080), https (TCP 8443) and ssh (TCP 22):
+nmap -A -p- 10.10.11.204 Starting Nmap 7.93 ( https://nmap.org ) at 2023-04-04 17:13 EDT Nmap scan report for inject.htb (10.10.11.204) Host is up (0.027s latency). PORT STATE SERVICE VERSION 22/tcp open ssh OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0) | ssh-hostkey: | 3072 caf10c515a596277f0a80c5c7c8ddaf8 (RSA) | 256 d51c81c97b076b1cc1b429254b52219f (ECDSA) |_ 256 db1d8ceb9472b0d3ed44b96c93a7f91d (ED25519) 8080/tcp open nagios-nsca Nagios NSCA |_http-open-proxy: Proxy might be redirecting requests |_http-title: Home 8443/tcp open http SimpleHTTPServer 0.</description>
+    </item>
+    
+  </channel>
+</rss>

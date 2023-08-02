@@ -10,15 +10,25 @@
       <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Jul 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Aug 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>⭐ THM Certificate Checker ⭐</title>
+      <title>[⭐] THM Certificate Checker</title>
       <link>https://s4my9.github.io/posts/thm-certificate-checker/</link>
       <pubDate>Sun, 16 Apr 2023 11:30:03 +0000</pubDate>
       
       <guid>https://s4my9.github.io/posts/thm-certificate-checker/</guid>
       <description>If you&amp;rsquo;re a user of TryHackMe (THM), you know how valuable it is to earn certifications for your cybersecurity skills. However, verifying those certificates can sometimes be a hassle, requiring you to navigate through multiple pages or tools to ensure their validity. That&amp;rsquo;s where the THM Certificate Validator Chrome Extension comes in handy.
 This lightweight and user-friendly extension allows you to quickly check the validity of your THM certificates right from your browser.</description>
+    </item>
+    
+    <item>
+      <title>[⭐] Files Events Monitor</title>
+      <link>https://s4my9.github.io/posts/files-events-monitor/</link>
+      <pubDate>Wed, 02 Aug 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/files-events-monitor/</guid>
+      <description>Are you concerned about the integrity and security of your files? Do you want to keep track of any changes or activities in a specific directory? Introducing Files Events Monitor, a simple yet powerful tool to monitor file system activity and receive real-time alerts via Discord webhook.
+Files Events Monitor is a Python-based command-line tool designed to keep a vigilant eye on your specified directory for any file system events.</description>
     </item>
     
     <item>

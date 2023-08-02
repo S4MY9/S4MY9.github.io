@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Project on S4MY9&#39;s Blog</title>
-    <link>https://s4my9.github.io/tags/project/</link>
-    <description>Recent content in Project on S4MY9&#39;s Blog</description>
+    <title>Windows on S4MY9&#39;s Blog</title>
+    <link>https://s4my9.github.io/tags/windows/</link>
+    <description>Recent content in Windows on S4MY9&#39;s Blog</description>
     <image>
       <title>S4MY9&#39;s Blog</title>
       <url>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Aug 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[⭐] THM Certificate Checker</title>
-      <link>https://s4my9.github.io/posts/thm-certificate-checker/</link>
-      <pubDate>Sun, 16 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://s4my9.github.io/posts/thm-certificate-checker/</guid>
-      <description>If you&amp;rsquo;re a user of TryHackMe (THM), you know how valuable it is to earn certifications for your cybersecurity skills. However, verifying those certificates can sometimes be a hassle, requiring you to navigate through multiple pages or tools to ensure their validity. That&amp;rsquo;s where the THM Certificate Validator Chrome Extension comes in handy.
-This lightweight and user-friendly extension allows you to quickly check the validity of your THM certificates right from your browser.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 02 Aug 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[⭐] Files Events Monitor</title>
       <link>https://s4my9.github.io/posts/files-events-monitor/</link>

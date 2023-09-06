@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pivot on S4MY9&#39;s Blog</title>
+    <link>https://s4my9.github.io/tags/pivot/</link>
+    <description>Recent content in Pivot on S4MY9&#39;s Blog</description>
+    <image>
+      <title>S4MY9&#39;s Blog</title>
+      <url>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Aug 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/pivot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[📝] Ligolo-ng, pivot/tunnel tool.</title>
+      <link>https://s4my9.github.io/posts/ligolo/</link>
+      <pubDate>Fri, 25 Aug 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/ligolo/</guid>
+      <description>Ligolo-ng stands out as a straightforward, lightweight, and high-speed tool specifically designed for penetration testers to create tunnels through a reverse TCP/TLS connection using a tun interface, eliminating the need for SOCKS proxies.
+/ / (_)___ _____ / /___ ____ ____ _ / / / / __ `/ __ \/ / __ \______/ __ \/ __ `/ / /___/ / /_/ / /_/ / / /_/ /_____/ / / / /_/ / /_____/_/\__, /\____/_/\____/ /_/ /_/\__, / /____/ /____/ Cheat Sheet Here&amp;rsquo;s a cheat sheet with the most commonly used commands:</description>
+    </item>
+    
+  </channel>
+</rss>

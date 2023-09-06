@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Certification on S4MY9&#39;s Blog</title>
+    <link>https://s4my9.github.io/tags/certification/</link>
+    <description>Recent content in Certification on S4MY9&#39;s Blog</description>
+    <image>
+      <title>S4MY9&#39;s Blog</title>
+      <url>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Sep 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[🎓] Dante HTB Prolab</title>
+      <link>https://s4my9.github.io/posts/dante-htb-prolab/</link>
+      <pubDate>Mon, 04 Sep 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/dante-htb-prolab/</guid>
+      <description>In this post, I will share my experience and tips on the Dante ProLab at HackTheBox. Whether you&amp;rsquo;re a beginner looking to get started or a professional looking to improve your skills, these insights will be valuable.
+Introduction to the Dante Lab The Dante Lab is an ideal choice for those aiming to prepare for the OSCP exam but want to gain practical experience in a realistic corporate environment before investing in the OSCP (minimum $1600) access.</description>
+    </item>
+    
+    <item>
+      <title>[🎓] EJPTv2</title>
+      <link>https://s4my9.github.io/posts/ejptv2/</link>
+      <pubDate>Tue, 09 May 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/ejptv2/</guid>
+      <description>One week ago, I successfuly passed the eLearnSecurity Junior Penetration Tester V2 (eJPTv2) certification exam. In this article, I want to share my insights and thoughts on this certification for those considering a career in cybersecurity.
+What is eJPTv2? eJPTv2, short for eLearnSecurity Junior Penetration Tester V2, is a certification program offered by eLearnSecurity. Designed for aspiring cybersecurity professionals, particularly those interested in penetration testing, this certification stands out for its practical approach and comprehensive coverage of essential topics.</description>
+    </item>
+    
+  </channel>
+</rss>

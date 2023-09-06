@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 06 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://s4my9.github.io/tags/lfi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LFI to RCE with Log Poisoning</title>
+      <title>[📝] LFI to RCE with Log Poisoning</title>
       <link>https://s4my9.github.io/posts/lfi-to-rce-with-log-poisoning/</link>
       <pubDate>Thu, 06 Apr 2023 11:30:03 +0000</pubDate>
       

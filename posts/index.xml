@@ -10,15 +10,25 @@
       <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Aug 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[⭐] THM Certificate Checker</title>
-      <link>https://s4my9.github.io/posts/thm-certificate-checker/</link>
-      <pubDate>Sun, 16 Apr 2023 11:30:03 +0000</pubDate>
+      <title>[🎓] Dante HTB Prolab</title>
+      <link>https://s4my9.github.io/posts/dante-htb-prolab/</link>
+      <pubDate>Mon, 04 Sep 2023 11:58:47 +0700</pubDate>
       
-      <guid>https://s4my9.github.io/posts/thm-certificate-checker/</guid>
-      <description>If you&amp;rsquo;re a user of TryHackMe (THM), you know how valuable it is to earn certifications for your cybersecurity skills. However, verifying those certificates can sometimes be a hassle, requiring you to navigate through multiple pages or tools to ensure their validity. That&amp;rsquo;s where the THM Certificate Validator Chrome Extension comes in handy.
-This lightweight and user-friendly extension allows you to quickly check the validity of your THM certificates right from your browser.</description>
+      <guid>https://s4my9.github.io/posts/dante-htb-prolab/</guid>
+      <description>In this post, I will share my experience and tips on the Dante ProLab at HackTheBox. Whether you&amp;rsquo;re a beginner looking to get started or a professional looking to improve your skills, these insights will be valuable.
+Introduction to the Dante Lab The Dante Lab is an ideal choice for those aiming to prepare for the OSCP exam but want to gain practical experience in a realistic corporate environment before investing in the OSCP (minimum $1600) access.</description>
+    </item>
+    
+    <item>
+      <title>[📝] Ligolo-ng, pivot/tunnel tool.</title>
+      <link>https://s4my9.github.io/posts/ligolo/</link>
+      <pubDate>Fri, 25 Aug 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/ligolo/</guid>
+      <description>Ligolo-ng stands out as a straightforward, lightweight, and high-speed tool specifically designed for penetration testers to create tunnels through a reverse TCP/TLS connection using a tun interface, eliminating the need for SOCKS proxies.
+/ / (_)___ _____ / /___ ____ ____ _ / / / / __ `/ __ \/ / __ \______/ __ \/ __ `/ / /___/ / /_/ / /_/ / / /_/ /_____/ / / / /_/ / /_____/_/\__, /\____/_/\____/ /_/ /_/\__, / /____/ /____/ Cheat Sheet Here&amp;rsquo;s a cheat sheet with the most commonly used commands:</description>
     </item>
     
     <item>
@@ -32,7 +42,7 @@ Files Events Monitor is a Python-based command-line tool designed to keep a vigi
     </item>
     
     <item>
-      <title>[HTB]: Inject</title>
+      <title>[✍️ HTB]: Inject</title>
       <link>https://s4my9.github.io/posts/inject-htb/</link>
       <pubDate>Sun, 16 Jul 2023 11:58:47 +0700</pubDate>
       
@@ -42,7 +52,27 @@ nmap -A -p- 10.10.11.204 Starting Nmap 7.93 ( https://nmap.org ) at 2023-04-04 1
     </item>
     
     <item>
-      <title>NFS no_root_squash privesc</title>
+      <title>[🎓] EJPTv2</title>
+      <link>https://s4my9.github.io/posts/ejptv2/</link>
+      <pubDate>Tue, 09 May 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/ejptv2/</guid>
+      <description>One week ago, I successfuly passed the eLearnSecurity Junior Penetration Tester V2 (eJPTv2) certification exam. In this article, I want to share my insights and thoughts on this certification for those considering a career in cybersecurity.
+What is eJPTv2? eJPTv2, short for eLearnSecurity Junior Penetration Tester V2, is a certification program offered by eLearnSecurity. Designed for aspiring cybersecurity professionals, particularly those interested in penetration testing, this certification stands out for its practical approach and comprehensive coverage of essential topics.</description>
+    </item>
+    
+    <item>
+      <title>[⭐] THM Certificate Checker</title>
+      <link>https://s4my9.github.io/posts/thm-certificate-checker/</link>
+      <pubDate>Sun, 16 Apr 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/thm-certificate-checker/</guid>
+      <description>If you&amp;rsquo;re a user of TryHackMe (THM), you know how valuable it is to earn certifications for your cybersecurity skills. However, verifying those certificates can sometimes be a hassle, requiring you to navigate through multiple pages or tools to ensure their validity. That&amp;rsquo;s where the THM Certificate Validator Chrome Extension comes in handy.
+This lightweight and user-friendly extension allows you to quickly check the validity of your THM certificates right from your browser.</description>
+    </item>
+    
+    <item>
+      <title>[📝] NFS no_root_squash privesc</title>
       <link>https://s4my9.github.io/posts/no-root-squash-privesc/</link>
       <pubDate>Tue, 11 Apr 2023 11:30:03 +0000</pubDate>
       
@@ -54,7 +84,7 @@ mount -t nfs &amp;lt;IP&amp;gt;:&amp;lt;SHARED_FOLDER&amp;gt; /tmp/mount Copy th
     </item>
     
     <item>
-      <title>LFI to RCE with Log Poisoning</title>
+      <title>[📝] LFI to RCE with Log Poisoning</title>
       <link>https://s4my9.github.io/posts/lfi-to-rce-with-log-poisoning/</link>
       <pubDate>Thu, 06 Apr 2023 11:30:03 +0000</pubDate>
       

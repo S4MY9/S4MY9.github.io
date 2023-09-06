@@ -10,7 +10,27 @@
       <link>https://s4my9.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Aug 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 11:58:47 +0700</lastBuildDate><atom:link href="https://s4my9.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[🎓] Dante HTB Prolab</title>
+      <link>https://s4my9.github.io/posts/dante-htb-prolab/</link>
+      <pubDate>Mon, 04 Sep 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/dante-htb-prolab/</guid>
+      <description>In this post, I will share my experience and tips on the Dante ProLab at HackTheBox. Whether you&amp;rsquo;re a beginner looking to get started or a professional looking to improve your skills, these insights will be valuable.
+Introduction to the Dante Lab The Dante Lab is an ideal choice for those aiming to prepare for the OSCP exam but want to gain practical experience in a realistic corporate environment before investing in the OSCP (minimum $1600) access.</description>
+    </item>
+    
+    <item>
+      <title>[📝] Ligolo-ng, pivot/tunnel tool.</title>
+      <link>https://s4my9.github.io/posts/ligolo/</link>
+      <pubDate>Fri, 25 Aug 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/ligolo/</guid>
+      <description>Ligolo-ng stands out as a straightforward, lightweight, and high-speed tool specifically designed for penetration testers to create tunnels through a reverse TCP/TLS connection using a tun interface, eliminating the need for SOCKS proxies.
+/ / (_)___ _____ / /___ ____ ____ _ / / / / __ `/ __ \/ / __ \______/ __ \/ __ `/ / /___/ / /_/ / /_/ / / /_/ /_____/ / / / /_/ / /_____/_/\__, /\____/_/\____/ /_/ /_/\__, / /____/ /____/ Cheat Sheet Here&amp;rsquo;s a cheat sheet with the most commonly used commands:</description>
+    </item>
+    
     <item>
       <title>[⭐] Files Events Monitor</title>
       <link>https://s4my9.github.io/posts/files-events-monitor/</link>
@@ -19,6 +39,16 @@
       <guid>https://s4my9.github.io/posts/files-events-monitor/</guid>
       <description>Are you concerned about the integrity and security of your files? Do you want to keep track of any changes or activities in a specific directory? Introducing Files Events Monitor, a simple yet powerful tool to monitor file system activity and receive real-time alerts via Discord webhook.
 Files Events Monitor is a Python-based command-line tool designed to keep a vigilant eye on your specified directory for any file system events.</description>
+    </item>
+    
+    <item>
+      <title>[🎓] EJPTv2</title>
+      <link>https://s4my9.github.io/posts/ejptv2/</link>
+      <pubDate>Tue, 09 May 2023 11:58:47 +0700</pubDate>
+      
+      <guid>https://s4my9.github.io/posts/ejptv2/</guid>
+      <description>One week ago, I successfuly passed the eLearnSecurity Junior Penetration Tester V2 (eJPTv2) certification exam. In this article, I want to share my insights and thoughts on this certification for those considering a career in cybersecurity.
+What is eJPTv2? eJPTv2, short for eLearnSecurity Junior Penetration Tester V2, is a certification program offered by eLearnSecurity. Designed for aspiring cybersecurity professionals, particularly those interested in penetration testing, this certification stands out for its practical approach and comprehensive coverage of essential topics.</description>
     </item>
     
   </channel>

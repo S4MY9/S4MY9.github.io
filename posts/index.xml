@@ -95,17 +95,5 @@ http://127.0.0.1/index.php?page=/../../../../etc/passwd
 The local file can be read :</description>
     </item>
     
-    <item>
-      <title>About me</title>
-      <link>https://s4my9.github.io/posts/about/</link>
-      <pubDate>Sun, 17 Jul 2022 11:58:47 +0700</pubDate>
-      
-      <guid>https://s4my9.github.io/posts/about/</guid>
-      <description>Hi, I&amp;rsquo;m S4MY9, a french cybersecurity enthousiast ! 🇫🇷
-This blog is my space to share my knowledge, discoveries, projects and thoughts on various aspects of cybersecurity. I hope you&amp;rsquo;ll find useful and interesting information here to help you navigate the complex landscape of online security.
-My Learning Roadmap Here are some of my recent learning accomplishments in the field of cybersecurity:
-🚧 - 7/10 of all the learning paths of TryHackMe.</description>
-    </item>
-    
   </channel>
 </rss>
